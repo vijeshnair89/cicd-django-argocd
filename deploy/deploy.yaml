@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: vijesh89/todo-app:26
+        image: vijesh89/todo-app:29
         ports:
         - containerPort: 8000
